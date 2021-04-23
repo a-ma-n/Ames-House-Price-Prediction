@@ -7,6 +7,6 @@
 
 * Normalised the skewed data for better results
 * Used XGB Regression to predict the prices
-
+* Score on Kaggle:0.13803
 
 
